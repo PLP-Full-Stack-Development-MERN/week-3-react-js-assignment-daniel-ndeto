@@ -114,3 +114,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 - Special thanks to the PLP Full Stack Development MERN team for the project guidelines.
 - This project is inspired by best practices in modern React development.
+
+![image](https://github.com/user-attachments/assets/ead45475-9b3d-46bb-8d00-7c30f62a677e)
+
+![image](https://github.com/user-attachments/assets/f7174ead-0301-4570-9d18-62628bef2d2b)
+
